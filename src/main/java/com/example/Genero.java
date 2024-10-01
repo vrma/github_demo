@@ -1,5 +1,6 @@
 package com.example;
 
 public enum Genero {
-    INFORMATICA,CONTABILIDAD
+    INFORMATICA,CONTABILIDAD,
+    FINANZAS,RRHH
 }
