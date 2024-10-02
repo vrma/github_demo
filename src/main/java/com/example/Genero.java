@@ -1,5 +1,5 @@
 package com.example;
 
 public enum Genero {
-    FINANZAS,RRHH
+    INFORMATICA,CONTABILIDAD,FINANZAS,RRHH
 }
